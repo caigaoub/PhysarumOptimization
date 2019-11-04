@@ -6,4 +6,4 @@ This repo basically contains my works (and Xiaoge Zhang) about physarum optimiza
 
 2. Zhang, X., Zhang, Y., Zhang, Z., Mahadevan, S., Adamatzky, A. and Deng, Y., 2014. Rapid Physarum Algorithm for Shortest Path Problem. Applied Soft Computing, 23, pp.19-26
 
-Feel free to use them for any research work. Please remember citation of these paper as well. Thanks.
+Feel free to use them for any research work. Please remember citing these papers as well. Thanks.
